@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+*.pth
+/cifar10/data/cifar*
+/cifar100_hd5/
+*.h5
+*.hdf5
+*.png
